@@ -31,5 +31,9 @@ Follow the documentation wherever stuck, it contains everything HuggingFace tran
 2. Create a Hugging Face access token with read and write access at https://huggingface.co/settings/tokens.
     - You can create a read/write token using the fine-grained settings and selecting all the appropriate options.
     - Read more on Hugging Face access tokens at https://huggingface.co/docs/hub/en/security-tokens.
+  
 
- 
+# Topics to cover
+
+- [ ] Natural Language Processing (NLP)
+    - [ ] Text classification model      
