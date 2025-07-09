@@ -36,4 +36,4 @@ Follow the documentation wherever stuck, it contains everything HuggingFace tran
 # Topics to cover
 
 - [ ] Natural Language Processing (NLP)
-    - [ ] Text classification model      
+    - [ ] Text classification model  - [Colab](https://colab.research.google.com/drive/1UTq5yaU9xcZHZ9jncO1GodZt8bOW2_UO#scrollTo=IQ0vO8hK55LB)
